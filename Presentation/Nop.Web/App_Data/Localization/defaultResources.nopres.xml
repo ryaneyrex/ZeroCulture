@@ -16242,14 +16242,14 @@
   <LocaleResource Name="ShoppingCart.EstimateShipping.ShippingOptionWithRate">
     <Value>{0} ({1})</Value>
   </LocaleResource>
-  <LocaleResource Name="ShoppingCart.EstimateShipping.StateProvince">
+  <!--<LocaleResource Name="ShoppingCart.EstimateShipping.StateProvince">
     <Value>State / province</Value>
-  </LocaleResource>
+  </LocaleResource>-->
   <LocaleResource Name="ShoppingCart.EstimateShipping.Tooltip">
     <Value>Enter your destination to get a shipping estimate</Value>
   </LocaleResource>
   <LocaleResource Name="ShoppingCart.EstimateShipping.ZipPostalCode">
-    <Value>Zip / postal code</Value>
+    <Value>Postal Code</Value>
   </LocaleResource>
   <LocaleResource Name="ShoppingCart.FileUploaded">
     <Value>Your file successfully uploaded!</Value>
